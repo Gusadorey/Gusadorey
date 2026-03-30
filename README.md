@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 
 
 ## Encuentrame en las redes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tuusuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome)](https://tusitio.com)
+- [LinkedIn](https://linkedin.com/in/tuusuario)
+- [Portfolio](https://tusitio.com)
+- [GitHub](https://github.com/tuusuario)
