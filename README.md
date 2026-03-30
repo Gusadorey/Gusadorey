@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Static Badge](https://img.shields.io/badge/build%20-Python%20-lightgreen?style=for-the-badge)
+
+Skills
+![Static Badge](https://img.shields.io/badge/Python-lightgreen?style=for-the-badge&logo=python)
