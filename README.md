@@ -27,6 +27,5 @@ Here are some ideas to get you started:
 
 
 ## Encuentrame en las redes:
-<ul>
-  <li>Compartiendo mis proyectos en [LinkedIn](https://www.linkedin.com/in/greyesmedina)</li>
-</ul>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tuusuario)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome)](https://tusitio.com)
