@@ -27,6 +27,4 @@ Here are some ideas to get you started:
 
 
 ## Encuentrame en las redes:
-- [LinkedIn](https://linkedin.com/in/tuusuario)
-- [Portfolio](https://tusitio.com)
-- [GitHub](https://github.com/tuusuario)
+- 💼 [LinkedIn](https://linkedin.com/in/greyesmedina)
