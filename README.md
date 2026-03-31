@@ -1,7 +1,6 @@
 ## Hola, soy Gustavo Reyes 👋 👨‍💻
 
-<img width="1581" height="515" alt="image" src="https://github.com/user-attachments/assets/e162fcb0-4075-4f9c-972c-639c4036f9cb" />
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Gustavo%20Reyes&fontSize=40&fontColor=ffffff)
 ## Sobre mi 🤔🙂
 Soy analista y científico de datos especializado en el análisis estadístico y la generación de insights estratégicos. 
 Mi objetivo es convertir datos en información valiosa que impulse la toma de decisiones y genere impacto en el negocio.
