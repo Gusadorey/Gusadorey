@@ -1,7 +1,8 @@
 ## Hola, soy Gustavo Reyes 👋 👨‍💻
 
+![image3](https://github.com/user-attachments/assets/0f1420f8-8c53-40bb-9cbe-0e1cc9deaeac)
 
-<img width="1536" height="1024" alt="Image (2)" src="https://github.com/user-attachments/assets/9718d3cd-fa09-4981-a03c-c0d769fb9cd5" />
+
 
 
 
