@@ -1,8 +1,12 @@
 ## Hola, soy Gustavo Reyes 👋 👨‍💻
 
 
-Soy analista y científico de datos apasionado con la estadística y encontrar insights a partir de los mismos para generar valor a empresas u entidades que requieran soluciones basadas en datos. Algunas tecnologías con las que disfruto trabajar son Power BI, Python, Excel, RStudio, T-SQL, SSIS, y 
+## Sobre mi 🤔🙂
+Soy analista y científico de datos especializado en el análisis estadístico y la generación de insights estratégicos. 
+Mi objetivo es convertir datos en información valiosa que impulse la toma de decisiones y genere impacto en el negocio.
 
+Trabajo con tecnologías como Power BI, Python, Excel, RStudio, T-SQL y SSIS, 
+aplicando buenas prácticas en análisis de datos, visualización y automatización de procesos.
 <!--
 **Gusadorey/Gusadorey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
