@@ -4,28 +4,10 @@
 
 
 
-
-
 ## Sobre mi 🤔🙂
 Soy analista y científico de datos especializado en el análisis estadístico y la generación de insights estratégicos. 
 Mi objetivo es convertir datos en información valiosa que impulse la toma de decisiones y genere impacto en el negocio.
-
-Trabajo con tecnologías como Power BI, Python, Excel, RStudio, T-SQL y SSIS, 
-aplicando buenas prácticas en análisis de datos, visualización y automatización de procesos.
-<!--
-**Gusadorey/Gusadorey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Disfruto trabajar con tecnologías como Power BI, Python, RStudio, SQL y Excel, aplicando buenas prácticas y desarrollando soluciones que apoyan la toma de decisiones basada en datos. 
 
 ## 🛠️ Habilidades
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
