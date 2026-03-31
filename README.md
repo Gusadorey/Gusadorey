@@ -1,6 +1,6 @@
 ## Hola, soy Gustavo Reyes 👋 👨‍💻
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Gustavo%20Reyes&fontSize=40&fontColor=ffffff)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=30&center=true&vCenter=true&width=800&lines=Hola,+soy+Gustavo+Reyes;Data+Analyst;Power+BI+%7C+Python+%7C+SQL)
 ## Sobre mi 🤔🙂
 Soy analista y científico de datos especializado en el análisis estadístico y la generación de insights estratégicos. 
 Mi objetivo es convertir datos en información valiosa que impulse la toma de decisiones y genere impacto en el negocio.
