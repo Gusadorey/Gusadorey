@@ -1,5 +1,8 @@
 ## Hola, soy Gustavo Reyes 👋 👨‍💻
 
+
+Soy analista y científico de datos apasionado con la estadística y encontrar insights a partir de los mismos para generar valor a empresas u entidades que requieran soluciones basadas en datos. Algunas tecnologías con las que disfruto trabajar son Power BI, Python, Excel, RStudio, T-SQL, SSIS, y 
+
 <!--
 **Gusadorey/Gusadorey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,5 +29,5 @@ Here are some ideas to get you started:
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 
-## Encuentrame en las redes:
+## 🌎 Encuentrame en las redes:
 - 💼 [LinkedIn](https://linkedin.com/in/greyesmedina)
