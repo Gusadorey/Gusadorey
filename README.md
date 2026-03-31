@@ -1,6 +1,6 @@
-## Hola, soy Gustavo Reyes 👋 👨‍💻
+## Hola, soy Gustavo 👋👨‍💻
 
-![image3](https://github.com/user-attachments/assets/0f1420f8-8c53-40bb-9cbe-0e1cc9deaeac)
+![image3](https://github.com/user-attachments/assets/f5287cd7-0449-4d66-9ad3-81ac12201702)
 
 
 
